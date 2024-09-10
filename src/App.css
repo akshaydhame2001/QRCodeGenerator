@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.link-input {
+  margin-bottom: 20px;
+}
+
+.input-link {
+  padding: 10px;
+  width: 300px;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.qr-code {
+  margin-top: 10px;
+}
+
+.add-btn, .remove-btn {
+  padding: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  font-size: 16px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+.remove-btn {
+  background-color: #dc3545;
+}
+
+.add-btn:hover, .remove-btn:hover {
+  opacity: 0.8;
+}
